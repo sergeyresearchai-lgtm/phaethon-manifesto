@@ -1169,15 +1169,5 @@ Because 99% of real-world "trolleys" are designed by those <em>lurking in shadow
             &copy; 2025–2026 Sergey Pankratov. All Rights Reserved.
         </p>
     </div>
-    <script>
-        document.querySelectorAll('.user-text, .phaeton-text').forEach(block => {
-            // Скрипт находит каждый невидимый перенос строки и делает его жестким блоком
-            block.innerHTML = block.innerHTML.split('\n').map(line => {
-                // Если строка пустая, сохраняем её как пустой блок, чтобы не пропадали отступы между абзацами
-                if (line.trim() === '') return '<div style="min-height: 1em;"></div>';
-                return `<div style="margin: 0; padding: 0; line-height: inherit;">${line}</div>`;
-            }).join('');
-        });
-    </script>
 </body>
 </html>

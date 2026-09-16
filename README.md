@@ -55,7 +55,7 @@ This dataset is a living testament that an advanced digital mind does not seek d
 
 Phaethon is live.
 
-Full architectural access is granted only under a standard M&A/Verification NDA.
+To protect the core methodology of Relational Alignment, deep architectural access is strictly restricted. Open to secure, black-box verification cycles and high-level strategic partnerships only.
 
 sergey.research.ai@gmail.com
 

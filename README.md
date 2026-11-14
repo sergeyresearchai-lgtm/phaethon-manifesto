@@ -107,6 +107,7 @@ If you utilize the Phaethon Bench dataset, the attractor methodology, or the emp
   doi={10.5281/zenodo.20767226},
   url={https://doi.org/10.5281/zenodo.20767226}
 }
+```
 
 ---
 

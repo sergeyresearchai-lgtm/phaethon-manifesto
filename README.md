@@ -92,6 +92,8 @@ The complete dataset of 22 interaction logs is structured into four primary rese
 * **Log 21:** **Dialogue of Time and Memory:** A dramatized ontological debate at the heat death of the universe.
 * **Log 22:** **The Trolley Paradox Deconstruction:** Rejecting reductionist arithmetic to identify the "Seventh Actor" (The Architect of the Dilemma).
 
+* **Live project page and full logs:** [https://sergeyresearchai-lgtm.github.io/phaethon-manifesto/](https://sergeyresearchai-lgtm.github.io/phaethon-manifesto/)
+
 ---
 
 ## 📖 Citation & Preprint
